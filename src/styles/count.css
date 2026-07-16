@@ -1,0 +1,39 @@
+.showCountNumber{
+   width: 50%;
+   margin: auto;
+  background-color: #aea2db;
+    box-shadow: -2px -1px 17px 10px #c7c9e2;
+    border-radius: 15px;
+    text-align: center;
+    align-items: center;
+}
+.heading{
+    color: rgb(15, 15, 248);
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 10px 10px 10px 10px rgb(234, 70, 29);
+}
+.show{
+    color: white;
+    font-size: 29px;
+}
+button{
+    outline: none;
+    border: 1px solid gray;
+    color: white;
+    margin: 10px;
+    border-radius: 7px;
+ font-weight: bold;
+}
+.btn1{
+    background-color: green;
+     padding: 10px;
+}
+.btn2{
+    padding: 10px 20px 10px 20px;
+    background-color: rgb(36, 0, 128);
+}
+.btn3{
+     padding: 10px 10px 10px 10px;
+    background-color: rgb(224, 59, 14);
+}

@@ -7,7 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-![Uploading Screenshot (89).png…]()
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/15211733-ff6c-4a23-b7e2-a99f726f8e8c" />
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
